@@ -25,12 +25,12 @@
     "fork-ts-checker-webpack-plugin": "^7.2.11",
     "graphql": "^16.5.0",
     "graphql-middleware": "^6.1.26",
-    "koa": "^2.13.4",
+    "koa": "^2.15.4",
     "lodash": "^4.17.21",
     "ts-loader": "^9.3.0",
     "typescript": "^4.6.4",
     "uuid": "^8.3.2",
-    "webpack": "^5.72.1",
+    "webpack": "^5.98.0",
     "webpack-cli": "^4.9.2",
     "webpack-node-externals": "^3.0.0"
   }
